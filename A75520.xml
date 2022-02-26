@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appeale to the world in these times of extreame danger.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75520</idno>
+            <idno type="STC">Wing A3569</idno>
+            <idno type="STC">Thomason E107_26</idno>
+            <idno type="STC">ESTC R17522</idno>
+            <idno type="EEBO-CITATION">99860210</idno>
+            <idno type="PROQUEST">99860210</idno>
+            <idno type="VID">112326</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75520)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112326)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appeale to the world in these times of extreame danger.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>For the vindication of Parliament.</note>
+                  <note>Annotation on Thomason copy: "12 July 1642".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:112326:1" rendition="simple:additions"/>
+            <head>AN <hi>APPEALE</hi> TO THE WORLD IN THESE TIMES OF <hi>EXTREAME DANGER.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He variety of dangers, unto vvhich this <hi>Parliament,</hi> and in it this <hi>Kingdome</hi> is now ſubject, and the manifold <hi>diſtempers,</hi> vvhich are the cauſes of theſe dangers, together vvith the <hi>multiplicity</hi> of thoſe evill influences, vvhich are the cauſes of theſe <hi>diſtempers,</hi> as alſo the great <hi>miſchiefes</hi> and <hi>miſerable deſtruction,</hi> not only threatned, but really intended, and at this time attempted againſt this <hi>Parlia<g ref="char:EOLhyphen"/>ment</hi> by the <hi>Manaſſites</hi> of the times, hath neceſſarily occaſioned this enſuing <hi>Appeale,</hi> as vvell to <hi>generations</hi> to come, as to thoſe now preſent.</p>
+            <p>The common and <hi>Epidemicall</hi> diſeaſe wherein this <hi>Kingdome</hi> at this time lies now gaſping under (being filled with nothing but feares, jealouſies, and perplexities, as may be obſerved by the miſerable complaints of all men, whoſe hearts are tender of the good and welfare of the Common-wealth) hath a <hi>Superiour</hi> and univerſall cauſe from the evill Counſels &amp; wicked deſignes of thoſe, who under his Majeſty threaten to carry all before them, againſt the <hi>Parliament,</hi> and all others who will not ſtoope to the illegall demands of the King: Theſe evill influences hath been formerly the cauſe of the preparations for War wirh <hi>Scotland,</hi> and the procuring a rebellion in <hi>Ireland,</hi> and now is the cauſe of diſtractions and diviſions betwixt the King and his faithfulleſt Subjects; and of procuring preparations of War here in <hi>England,</hi> by his Majeſty ſeduced by wicked Counſell, principally aiming firſt at <hi>Hull,</hi> and then at <hi>London,</hi> which are become the objects of the Kings hatred, not excluding the <hi>Par<g ref="char:EOLhyphen"/>liament.</hi>
+            </p>
+            <p>The <hi>Parliament</hi> is the <hi>foundation</hi> and <hi>baſis</hi> of <hi>Government,</hi> and conſequently of the peace and happineſſe of the Kingdome; as it creates the <hi>Law</hi> by which we are ruled and governed in peace and quietneſſe; ſo it preſerves the Law in <hi>power</hi> and <hi>autho<g ref="char:EOLhyphen"/>rity:</hi> It hath not only power and authority to preſerve good Lawes being made, but alſo to create ſuch new Lawes, as by which the Kingdome may be ruled and go<g ref="char:EOLhyphen"/>verned in peace, and alſo to repeal ſuch Laws as are oppoſite to the peace and pro<g ref="char:EOLhyphen"/>ſperity of the ſame, all Laws lying at their feet, to uſe them for the beſt advantage for the King and Kingdome. Firſt for the King, to reduce him from that ſeduced condition wherein he is: And ſecondly, for the <hi>Kingdome,</hi> to reſcue and deliver it from thoſe dangers and miſeries it is liable to at this time, by reaſon of his Majeſty ſo ſeduced.</p>
+            <p>For all the power which Princes have, is but derivative and ſecondary: The foun<g ref="char:EOLhyphen"/>taine and efficient cauſe is the people, and from hence the inference is juſt; The King, though he be <hi>ſingulis major,</hi> yet he is <hi>univerſis minor,</hi> for if the people be the true efficient cauſe of power; it is a rule in nature, <hi>Quicquid efficit tale, eſt magis tale,</hi> And hence it appeares, that at the founding of Authorities, when the conſent of ſo<g ref="char:EOLhyphen"/>cieties convayes rule into ſuch and ſuch hands, it may ordain what conditions, and
+<pb n="2" facs="tcp:112326:2" rendition="simple:additions"/>prefix what bounds it pleaſes, and that no diſſolution ought to be thereof, but by the ſame power by which it had its conſtitution.</p>
+            <p>And as for the finall cauſe of Princes power, or Regall Authority, his Majeſty doth not in any of his papers deny, that the ſame people are the finall cauſe, which is the efficient cauſe of it, and indeed it were ſtrange, if the people in ſubjecting it ſelf to command, ſhould aime at any thing but its own good in the firſt and laſt place, <hi>Power</hi> originally being thus inherent in the people, which is nothing elſe but that might and vigour which ſuch or ſuch a ſociety of men containes in it ſelf, and when by ſuch or ſuch a <hi>Law</hi> of <hi>common conſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt</hi> and agreement it is derived into ſuch &amp; ſuch hands, God confirmes that Law, and ſo man is the free and voluntary Author, the Law is the Inſtrument, and God is the eſtabliſher of both: Therefore not that <hi>Prince</hi> which <hi>Tyrannizeth</hi> over his Subjects, but that <hi>Prince</hi> which <hi>ruleth,</hi> and is moſt <hi>Po<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent</hi> in his Subjects, is indeed moſt truly <hi>Potent.</hi>
+            </p>
+            <p>Now if Kings are ſo inclinable to follow private advice rather then publike, and to prefer that which cloſes with their naturall impotent ambition, before that which croſſes the ſame, are without all limits; Then they may deſtroy their beſt Subjects at pleaſure, and all <hi>Charters,</hi> and <hi>Laws</hi> of publike ſafety and freedome are void, and God hath not left humane nature any meanes of ſufficient preſervation.</p>
+            <p>But on the contrary, if there be any benefit in Laws to limit <hi>Princes,</hi> when they are ſeduced by vvicked counſells, and vvill not hearken to the great Counſell of the Land, doubtleſſe there muſt be ſome Court to judge of that ſeducement, and ſome Authority to inforce that judgement, and that Court and Authority muſt be the <hi>Parliament,</hi> or ſome higher Tribunall; now none are ſo ignorant to affirm, a King in his ſingle perſon is a Court (either in time of <hi>Parliament,</hi> without his <hi>Parliament,</hi> or out of <hi>Parliament,</hi> in his own perſon alone) to judge in any cauſe, nor his meere fancy authority ſufficient to inforce judgement in any cauſe, much leſſe, nay altoge<g ref="char:EOLhyphen"/>ther is he unfit either to judge of his own ſeducement, or to inforce ſuch a judge<g ref="char:EOLhyphen"/>ment by any Authority, though he were not ſeduced, for the King is not above the Law, but in ſubjection to it, his meere will being not the rule of the Law, but the Law the rule of it, therefore the will of a King is not an unlimited will, and in caſe a King be ſeduced by wicked Counſell, and vvill not rule by Law, nor heathen to the Petitions of his three kingdomes, then the Law is free to reduce him.</p>
+            <p>Now it is not unknown to all the vvorld, how powerfull &amp; active the vvicked coun<g ref="char:EOLhyphen"/>ſellors about his Majeſty hath been, and ſtill are, for the accompliſhment of their own ends, ſeeking to deſtroy and extinguiſh that power, the true Religion, the Li<g ref="char:EOLhyphen"/>berty and Laws of the Kingdome, by many traiterous endeavours, from time to time. Firſt to keep off Parliaments, then either to diſſolve them vvhen they are ga<g ref="char:EOLhyphen"/>thered, or to raiſe in his <hi>Majeſty</hi> a diſaffection to his <hi>Parliament,</hi> and ſo at laſt to draw him into the Northern parts from them, to prevent all their <hi>juſt</hi> and <hi>lawfull deſignes,</hi> and now infuſing into his minde ſuch falſe reports, as hath raiſed in him an invete<g ref="char:EOLhyphen"/>rate hatred againſt them and all others vvho vvill not aſſiſt him in his demands and deſignes, publiſhing in his name divers ignominious reproaches againſt the <hi>Parlia<g ref="char:EOLhyphen"/>ment,</hi> in king his <hi>Majeſties Court</hi> a Sanctuary for all kinde of Delinquents, againſt the juſtice and lawfull priviledge of <hi>Parliament,</hi> and drawing to <hi>Torke</hi> by Letters, and other meanes, divers <hi>Members</hi> of <hi>both Houſes,</hi> vvhereby they ſet up a counterfeit imaginary viſage of a Parliament, to the great danger, not only of the diſturbance, but even of the ſubverſion of the fundamentall conſtitution and frame of this <hi>Kingdome.</hi>
+            </p>
+            <pb n="3" facs="tcp:112326:2"/>
+            <p>Now vvhether this <hi>Parliament</hi> hath not to this day vvatched over our <hi>Religion,</hi> the <hi>Liberty</hi> and <hi>Laws,</hi> of this <hi>Kingdome,</hi> the preſervation of his <hi>Majeſties</hi> perſon from the vvicked deſignes of his and our enemies; and that vvith great care, labour, and induſtry, to the hazard of their lives and fortunes, let the vvorld judge. If they ſhould call heaven and earth, God and man to vvitneſſe the ſame, they might doe it vvith a more ſafer and peaceable conſcience then, &amp;c.</p>
+            <p>
+               <hi>There needs no other Plea for them, than thoſe</hi> good <hi>and</hi> legall Votes, Ordinances, Re<g ref="char:EOLhyphen"/>monſtrances, Declarations, and Pititions, <hi>which hath iſſued from them ſince his</hi> Majeſties <hi>abſence; ſince which time he hath refuſed to aſſiſt them in their lawfull</hi> Deſignes, <hi>for the ſetling of the three</hi> Kingdomes <hi>in peace and proſperitie: but hath rather hearkened to the deſtroying Councells and reproachfull ſpeeches of the</hi> Iſhmaelites <hi>of the Times, as the effects doth declare, to the ſaiuing of the ſpirits of his beſt and moſt faithfull Subjects of his three</hi> Kingdomes, <hi>laying all the blame upon the</hi> Parliament. <hi>Indeed, if there be any thing in them blame-wor<g ref="char:EOLhyphen"/>thy, certainely its onely their too much lenity and patience towards thoſe offenders, who have beene the prime cauſers of all thoſe diſtractions, namely the</hi> Prelats, <hi>who have beene formerly accuſed of High Treaſon by both Houſes of</hi> Parliament, <hi>and ſince they have taken bayle for all or moſt of them; the evill effects whereof hath lately appeared, in the practiſe of one amongſt the teſt, to wit, that Archenemy</hi> Jo. Eborac. <hi>who is <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow gon to</hi> Yorke <hi>in a Warlicke manner, and for ought that can be gathered, to aſſiſt the King (ſeduced by evill Councell) in his intended warre againſt the</hi> Parliament, <hi>whoſe adherents have, and ſtill doe foment nothing but threats againſt thoſe, whom the</hi> Kingdome <hi>of</hi> England <hi>confideth in, and hath choſen to be their guide, Reſolving not only to obey them in all their juſt &amp; lawfull Commands; but alſo to defend them a<g ref="char:EOLhyphen"/>gainſt all illegal oppoſitions what or who ſoever they are, witnes their frequent free &amp; larg brin<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng in of mony, plate, and horſe, and alſo their acknowledgements, publiſhed in the Petitions of moſt of the Counties of</hi> Endland, <hi>as may hereafter (in time convenient) be printed together, and compared wi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h a few Collections of Pititions; many of which collections are pretended (though falſely) to have beene delivered to his</hi> Majeſtie, <hi>and others to his</hi> Privy Councell; <hi>To inſtance one amongſt the reſt</hi> (viz.) <hi>That falſe</hi> Petition <hi>of the</hi> Nobility, Gentry, Burroughes, Miniſters, <hi>and</hi> Commons <hi>of</hi> Scotland, <hi>delivered to his</hi> Majeſties <hi>moſt ho<g ref="char:EOLhyphen"/>nourable</hi> Privy Councell; <hi>and printed at his Majeſties</hi> Printing Houſe, <hi>to delude the world, and make them beleve it was a true</hi> Petition. <hi>Now let all the world judge whether his</hi> Maje<g ref="char:EOLhyphen"/>ſties <hi>intentions can be good, and whether it be not below himſelf, to ſuffer ſuch things to paſſe in ſilence, without requiring</hi> (<hi>from the</hi> Parliament) <hi>Juſtice to be execured upon ſuch p<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<g ref="char:EOLhyphen"/>ſons.</hi>
+            </p>
+            <p>There hath beene Printed divers times, many falſe, ſcandalous and invective Pamphlets againſt the Parliament, and thoſe who ſtand for the publike good, and they have never been inquired after<g ref="char:punc">▪</g> nor complained of to the Parliament from <hi>York,</hi> or thoſe parts; To inſtance ſome few of late, (viz.) the New Orders of the <hi>Par<g ref="char:EOLhyphen"/>liament of Roundheads,</hi> the <hi>Round Heads race,</hi> the <hi>Wardens Speech,</hi> the <hi>Declaration</hi> or <hi>Re<g ref="char:EOLhyphen"/>ſolution of the County of Hereford,</hi> with many more, which might be named, and ſhall if neede require; and as for the new Orders of the <hi>Parliament of Roundheads,</hi> it was obſerved that <hi>John Thomas,</hi> (for whom it was Printed, as is credibly reported) was knowne to ſet out of <hi>London</hi> for <hi>Yorke</hi> that very day it was publiſhed, and there re<g ref="char:EOLhyphen"/>ſides to ſend to his wife to Print here in <hi>London,</hi> whatſoever is there Printed in <hi>Yorke;</hi>
+               <pb n="4" facs="tcp:112326:3"/>but as for ſuch Bookes which ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve beene Printed, or ſuch Sermons which have beene preached, for, and in the behalfe of the <hi>Parliament,</hi> juſtifying their legall and righteous proceedings; The Authors, Printers, and Publiſhers thereof, muſt be found out and proceeded againſt by Law, as <hi>Treaſonable, Factious, Seditious, Schiſ<g ref="char:EOLhyphen"/>maticall,</hi> and I know not what perſons.</p>
+            <p>Theſe things being <hi>premiſed</hi> and <hi>compared</hi> together, an <hi>Appeale</hi> is here made to the whole world, for the vindication of the Parliament, in Sixe particulars, to conſider of and judge.</p>
+            <p n="1">1. Whither the <hi>Parliament</hi> hath protected any ſuch Preachers &amp; Pampheteers at any time (as is unjuſtly laid to their charge) (when it hath bin diſcovered to them who and what they are) by ſtopping the courſe of Juſtice from taking place againſt them, it they have beene proved <hi>Treaſonable, Factious, Seditious,</hi> or <hi>Schiſmaticall.</hi>
+            </p>
+            <p n="2">2. Whether the <hi>end</hi> of ſuch <hi>con<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance,</hi> or taking notice of ſuch falſe ſcandalous Pamphlets, be not purpoſely intended to ſuffer the affections of his Majeſties ſubjects to be drawne away from the <hi>Parliame<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> that ſo an utter extirpation of the v<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry being of <hi>Parliaments,</hi> may be obtained, as well for future Generations, as for the time preſent. For it is well knowne, that if this <hi>Parliame<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> could once, be either exringuiſhed, or its power weakened, which is all one; Then all will be at the Kings meere Will, and the mercy of His and the <hi>Parliame<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts</hi> Enemies. Nothing then will ſtand in their way to oppoſe them; but a flood of violence will runne over and cover the whole ſurface of the <hi>Kingdome,</hi> and carry away all, both preſent injoyments, and future hopes of Religion, Liberty, and whatſoever elſe is precious and deere to the whole <hi>Kingdome.</hi>
+            </p>
+            <p n="3">3. Whether it hath not beene (ſince this <hi>Parliament</hi> firſt begun) the pollicy of evill Councellors (who are the greateſt enemies the <hi>King</hi> and the three Kingdomes can poſſibly have) to ſtrike at <hi>Parliaments,</hi> or divide <hi>Parliaments,</hi> by making factions, and caſting in Diverſions and Obſtructions to hinder and interrupt the proceedings of the ſame, and to perſwade the King ſo to doe, whoſe advice and counſell he hath adhered unto, as evidently it doth appeare by the evill effects that hath followed ther<g ref="char:EOLhyphen"/>upon, to wit, the cauſeleſſe diviſion betwixt him &amp; his <hi>Parliament</hi> continuing ſolong, that it hath cauſed a very great <hi>jealouſie</hi> of much danger and miſery, ſuddenly to come upon this Kingdome, if it be not ſpeedily prevented by the wiſedome of the <hi>Parliament,</hi> and the concurrence of the well diſpoſed Subjects of the <hi>Kingdome;</hi> the which if they ſhall ſo doe, they will manifeſt to the world, that they are carried by no other reſpect, but of the publike good, which ſhould alwayes be preferred before their owne lives and fortunes.</p>
+            <p n="4">4. Whither there hath not beene a <hi>Succeſſion</hi> of deſignes againſt the <hi>Parliament,</hi> firſt, to awe it, ſecondly, to take away the freedome of it by the terror of an <hi>Army,</hi> &amp; then to bring force againſt it actually to aſſault it; witneſſe his <hi>Majeſties</hi> comming to the Houſe of Commons, in ſuch a manner, &amp; with ſuch a troope to demand thoſe five <hi>Members,</hi> which He accuſed of High Treaſon, and other miſdemeanours, which is judged by both Houſes of <hi>Parliament,</hi> to be a high breach of their Priviledges. The deliverance of which <hi>Members</hi> at that time, the whole world is Appeal'd unto, whe<g ref="char:EOLhyphen"/>ther an Annuall day of Thankſgiving ought not to be kept unto God through the whole Kingdome of great <hi>Britaine:</hi> for as much as at that time it was ſeared (and that not without cauſe) an intent was with the ſword to cut in ſunder this onely Band, with ties, and knits up <hi>King</hi> &amp; People together in one firme and indiſſolvable knot of Peace and Unity.</p>
+            <pb n="5" facs="tcp:112326:3"/>
+            <p n="5">5. Whether the <hi>Obſtrucing</hi> the proceeding of the <hi>Parliament</hi> were not <hi>abſolutely</hi> in<g ref="char:EOLhyphen"/>tended; firſt by the Rebellion in <hi>Ireland,</hi> to the conſuming of that <hi>Kingdome;</hi> the heads of which Rebellion, many, if not moſt of them, were tranſported into <hi>Ireland</hi> by the <hi>Kings</hi> ſpeciall Warrants; the names of which Rebells may be ſeene in an Anſwer of both Houſes to the <hi>Kings</hi> Meſſage, ſent to him, <hi>March</hi> 16. 1641. which Anſwer was ſet forth by their Authority, to be Printed and publiſhed. Secondly, whether the hindering of the proceedings of <hi>Parliament</hi> were not abſolutely inten<g ref="char:EOLhyphen"/>ded, by the diſtempers, diſtractions, and jealouſies fomented here at home to teare out the bowells of this Kingdome; the <hi>Parliament</hi> being by that meanes diſabled from helping it; witneſſe that Maſter peece, whence all the reſt receive counte<g ref="char:EOLhyphen"/>nance and ſupport, (viz.) His Majeſties abſence from, and not agreeing with his <hi>Parliament,</hi> but withdrawing his influence, whereby ſuch remedies could not be applied as was neceſſary, but what was done, it was with infinite trouble to the <hi>Parliament,</hi> and exceſſive charge to the Subject, double and treble, what otherwiſe would have ſerved the turne. So the Subject is grieved and oppreſſed with charge, and the blame of all is laid upon the <hi>Parliament,</hi> as being unjuſtly charged to be the cauſe of all thoſe evills, which the Authors of them have made.</p>
+            <p n="6">6. And laſt Appeale, Whether the wicked practiſes of enemies at home and a broad are not the cauſe of hindering the <hi>Parliament</hi> from their <hi>Actings</hi> and <hi>Ope<g ref="char:EOLhyphen"/>ratings</hi> towards the ſetling of the great <hi>Affaires</hi> both of Church and State, and pro<g ref="char:EOLhyphen"/>viding for the defence and ſafetie of his <hi>Majeſtie</hi> and his <hi>Kingdome,</hi> both from for<g ref="char:EOLhyphen"/>raigne Invaſions abroad, and ſecret ſtirrings of the diſcontented party at home.</p>
+            <div type="particulars">
+               <head>Unto this laſt Appeale, there are ſeverall particulars as gradations to Confirme the ſame, and left to the <hi>World</hi> to Judge.</head>
+               <p n="1">1. When the <hi>Parliament</hi> was in a faire way, by the bleſſing of God, to wade through, and overcome thoſe difficulties which lay in their way. Then there was an <hi>Aſſay</hi> made by the Malignant party, to weaken the proceedings and power of the <hi>Parliament,</hi> utterly to ſubdue it; firſt, by his <hi>Majeſties</hi> departing from his <hi>Parliament,</hi> in ſuch a manner, as gives all his loving Subjects juſt occaſion to ſuſpect He intends not good to His three Kingdomes; and then by gathering of Forces, commanding a <hi>Garriſon</hi> of ſouldiers to be put into <hi>New caſtle,</hi> under the command of the <hi>Earle</hi> of <hi>New-caſtle,</hi> who ſhould have formorly ſeiſed upon <hi>Hull,</hi> had he not by the provi<g ref="char:EOLhyphen"/>dence of <hi>God,</hi> giving vviſedome to the <hi>Parliament</hi> to prevent him, and ſundry Com<g ref="char:EOLhyphen"/>miſſions granted by his <hi>Majeſtie</hi> for the raiſing of Horſe, and divers Officers being thereunto appointed; likewiſe his <hi>Majeſtie</hi> upon a Munday morning, being the fourth of <hi>July,</hi> came to <hi>Beverly</hi> with an <hi>Army</hi> of a conſiderable number, of horſe and foote, and ſome Regiment of Trained bands commanded to be raiſed, amongſt vvhich Souldiers in this Army, are divers Papiſts, and other perſons of deſperate fortunes, ready to execute any rapine, violence, and oppteſſion, beſides ſeverall troopes of horſe vvere ſent into <hi>Lincolnſhire,</hi> to the great terror of the well affected people, vvho are thereby forced, either to forſake their dwellings, or to keepe them with armed men. Now in theſe, and many more vvhich might be inſtanced, here is an Appeale made to the vvorld, vvhether his <hi>Majeſtie</hi> intends not the ſubver<g ref="char:EOLhyphen"/>ſion of the <hi>Parliament,</hi> together vvith the diſtuction of the vvhole Kingdome, and hath not already begunne the vvarre.</p>
+               <p n="2">2. Conſider under vvhat vaine pretences his <hi>Majeſtie</hi> is pleaſed to gather forces
+<pb n="6" facs="tcp:112326:4"/>at <hi>Yorke,</hi> (viz.) to have a Guard for his Perſon, as if his ordinary Guard was not as ſufficient to protect his perſon there, as they vvere vvhen he was at <hi>White-Hall,</hi> there being no other cauſe of feare then was here neer London, unleſſe himſelf produceth the cauſes. For if there be any cauſe of feare, it may rather ariſe from the Parliament, leſt his Cavaliers and his Counſellors there about him take away his Majeſties life, when they have accompliſhed their own ends by his means, for feare leſt he ſhould not prove as faithfull to them hereafter, as is feared he hath not to thoſe now vvho have ever proved faithfull to him at all times, and upon all occaſions, and never gave cauſe at any time why he ſhould be ſo oppoſite to the Parliament, and by a ſtrong hand to ſupport Delinquents, in ſuch a manner, that no order of the Parlia<g ref="char:EOLhyphen"/>ment can be obeyed, but rather ſlighted, and ſcorned: Witneſſe the Report of his Majeſties Cavaliers upon <hi>Haworth Moore</hi> at York, June 3. 1642. as may be ſeen in a Letter ſent from York to a friend in London, declaring that they vvere wholly for the King, againſt the Parliament. Whereupon the County of York being ſummo<g ref="char:EOLhyphen"/>ned by his Majeſty to appear that day, to propound ſome things to their conſiderati<g ref="char:EOLhyphen"/>ons, and nothing was then propounded to require their Anſwer, they went away ve<g ref="char:EOLhyphen"/>ry much unſatisfied and diſcontented. Yet before they departed, in anſwer to thoſe Cavaliers they declared unto them, <hi>That they came not with any intent or reſolution to di<g ref="char:EOLhyphen"/>vide the King and Parliament, nor would they ever condeſeend thereunto.</hi>
+               </p>
+               <p n="3">3. When the Parliament underſtood by evident demonſtrations, that the King ſeduced by evill counſell, intended to make War againſt the Parliament, the doing whereof is enough to deſtroy both Himſelf and his poſterity for ever, from enjoying any of his three Kingdomes hereafter. Then they petitioned his Majeſty to disband all ſuch forces as were by his command aſſembled, and to rely for ſecurity upon the laws and affections of his People, as his Predeceſſors have done before him, &amp;c. notwithſtanding it is evidently ſeen he proceedeth in his illegall courſes againſt the Parliament, making good every day more and more the expreſſions of his Cava<g ref="char:EOLhyphen"/>liers, expreſſed upon <hi>Heworth-more,</hi> and now hath ſet forth a Paper in form of a De<g ref="char:EOLhyphen"/>claration, and printed at York, and reprinted at London for <hi>Robert Young,</hi> wherein is expreſt, that He will defend every one of them, and all ſuch as ſhall refuſe any Commands, whether they proceed from Votes and Orders of both Houſes, or any other way, from all dangers and hazzards whatſoever, and yet he further declares in the ſame Paper, that He vvill not engage any in a War againſt the Parliament, ex<g ref="char:EOLhyphen"/>cept it be for his neceſſary defence, &amp;c. If this be not to delude the World, as Him<g ref="char:EOLhyphen"/>ſelf is deluded, let the World judge whether his intentions are not to hinder the pre<g ref="char:EOLhyphen"/>ceedings of the Parliament in their Actings and Operatings, towards the ſetling of peace and quietneſſe in the Kingdome, and principally intends nothing leſſe then War againſt them, and his Kingdome.</p>
+               <p>His Majeſty ſaith likewiſe, that He will defend the true Proteſtant Religion, &amp;c. How can that poſſibly be believed of any wiſe man, ſeeing there is no other meanes ſo effectuall as to adviſe with His Parliament, for if the Parliament would ſide with the King in whatſoever he vvould have them to do, then there would be no greater argument to aggravate the ſin of diſobedience in any perſon, then to diſobey the Laws and Ordinances of the Parliament, which now he ſo contemnes, and villifies, as is obvious to the ſight of the world in Print.</p>
+               <p>But in ſtead of puniſhing offendors againſt his Parliament, he cauſeleſly departs from them, and forbids any to obey them.</p>
+               <pb n="7" facs="tcp:112326:4"/>
+               <p>Now let the world judge whether his Majeſties expreſſions (which hee had often profeſſed in his Papers) and his practiſes or Actions are not different; hee pro<g ref="char:EOLhyphen"/>feſſeth to maintaine that Religion which is eſtabliſhed by the <hi>Law</hi> of the <hi>Land,</hi> and ye<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> hee is pleaſed to countenance and protect thoſe againſt whom the Law is principall intended.</p>
+               <p>Laſtly, it appeares that the enemies to the peace of the <hi>Kingdome</hi> are the cauſe of hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>dering the proceedings of <hi>Parliament,</hi> by provoking and inſtigating his Majeſtie to ſen<g ref="char:EOLhyphen"/>ſeverall Papers in forme of declarations and meſſages, and in them expreſſing bitter in<g ref="char:EOLhyphen"/>vective ſpeeches againſt the <hi>Parliament</hi> to perplex them, and ingage them in the expenc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of time to anſwer thoſe Declarations and Meſſages, now let the <hi>World</hi> judge, whether i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> be not better to <hi>ſay leſſe and doe more,</hi> by a ſpeedy proceeding (according to Law) againſt the offenders, <hi>who, or Whatſoever they are.</hi>
+               </p>
+               <p>The world now is wearied out with reading of <hi>Declarations, Remonſtrances</hi> and Pete<g ref="char:EOLhyphen"/>tions from both Houſes to the <hi>King,</hi> and vvith Declarations and Meſſages from the <hi>King</hi> to them againe, together with their replies to the <hi>King</hi> from time to time. The Spirits of men begin now to languiſh, conſidering the malignant partie daily increaſes, and according to their ſtrength ſuch are their deſignes; firſt cunningly to inſinuate and infuſe into the people (by falſe colours and gloſſes) an evill opinion and diſlike to the <hi>Parliament,</hi> and then <hi>Jehu</hi>-like in a hoſtile manner to riſe againſt the <hi>Parliament</hi> (and in it all other <hi>Parliaments</hi>) to the ruining of them, their wives and children.</p>
+               <p>Now let the <hi>World</hi> judge, every mans conſcience being appealed unto, as the caſe now ſtands, (his <hi>Majeſty</hi> being ſeduced by the wicked counſell of ſuch deſperat perſons, whoſe care, ſtudy, and induſtry is not onely to provoke his <hi>Majeſtie</hi> to be the head of their <hi>Re<g ref="char:EOLhyphen"/>bellion,</hi> but alſo to bring the <hi>King</hi> and <hi>Kingdome</hi> either to utter <hi>deſolation,</hi> or to an <hi>Arbi<g ref="char:EOLhyphen"/>trary</hi> and <hi>Tirannicall Monarchy</hi>) vvhether in theſe extreame <hi>diſtractions</hi> and <hi>diſtempers,</hi> your lives and all you have being in continuall feare to be loſt, it be better to obey a <hi>Se<g ref="char:EOLhyphen"/>duced King,</hi> then the wiſe repreſentative body of the vvhole <hi>Kingdome,</hi> ſo <hi>conſtituted</hi> by the Lawes of the land to mannage the affaires of the <hi>Kingdome. Judge yee</hi> vvhether it be not better and more ſutable to a good conſcience to ſtand or fall, live or die vvith the <hi>Parliament</hi> according to your proteſtation, and ſo with your hands upon your Swords bee ready at their command to performe your vowes to God, and your oathes of fidelitie to his <hi>Majeſtie</hi> in reſcuing him from his enemies, by taking up armes to de<g ref="char:EOLhyphen"/>ſend your ſelves againſt thoſe falſe flattering <hi>Traytors,</hi> who abuſe his <hi>Majeſties Roy<g ref="char:EOLhyphen"/>all</hi> favour, intending (under the glorious title of his name and Standard) to fight againſt the peace and Honour of their <hi>Soveraigne,</hi> againſt <hi>Religion</hi> and the Lawes, and ſo make a prey and ſpoyle of three flouriſhing kingdomes at once.</p>
+               <p>Therefore quit your ſelves like men, and ſtrengthen your ſelves in the Lord your God, rouze up your drooping ſpirits, and ſtrengthen your feeble knees, and reſolve to
+<pb n="6" facs="tcp:112326:5" rendition="simple:additions"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="7" facs="tcp:112326:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="8" facs="tcp:112326:6"/>ſpend and be ſpent in the defence of the lives and liberties one of another, a harmonious union in the cauſe of <hi>Jeſus Chriſt</hi> is an aſtoniſhment to the enemy, and halfe the victory is then obtained, delaies prove dangerous, and faint heartedneſſe gives ſtrength and ad<g ref="char:EOLunhyphen"/>vantage to the adverſary, therefore now if ever ſtand faſt, and ſhew your ſelves friend for your <hi>King</hi> and <hi>Parliament.</hi>
+               </p>
+               <p>Let it appear before God and all the Nations of the vvorld round about you, that tru<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> generous blood runs in all your veins, conſider the <hi>honour</hi> and cauſe of <hi>God,</hi> the good and happy ſucceſſe of this preſent <hi>Parliament,</hi> your lives, your laws, and liberties, your <hi>Tem<g ref="char:EOLhyphen"/>porall</hi> and <hi>Spirituall</hi> vvelfare lies all bleeding at your feet, earneſtly ſupplicating your beſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> aſſiſtance: give your conſciences leave a vvhile to expoſtulate with you: vvill you live, and the Parli<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment die, can it poſſibly go vvell vvith you, whileſt it goeth ill with them O no, rather purchaſe their life by your death, ſo ſhall you be a good example to all ge<g ref="char:EOLhyphen"/>nerations yet to come, being conſidently aſſured there was never a greater prize in your hands than at this time is in the <hi>Kingdome</hi> of <hi>England,</hi> (viz.) <hi>The Goſpell of Jeſus Chriſt,</hi> and the <hi>Peace</hi> of the Kingdome, each of which, in value and eſtimation (in reſpect of in<g ref="char:EOLhyphen"/>joyment) far exceeds all the vvealth the vvhole vvorld can afford: What comfort and contentment can you take in your <hi>health, wealth, houſes, lands, wife, children</hi> and <hi>friends,</hi> vvhen in the enjoyment of theſe, you are bereaved of peace and quietneſſe with them, vvhen (on a ſudden it may be, before you expect it) the enemy ruſheth in upon you, and preſently makes your habitation deſolate, raviſhing your wives, and ripping them up before your faces, uſing all violence and miſchiefe upon you, as they have done to our neighbour Nations, <hi>Germany</hi> and <hi>Ireland,</hi> and have attempted the like upon <hi>Scotland.</hi> Therefore be intreated once more, and that without delay, letting no opportunity ſlip, joyn your heads, hearts, and ſpirits together with one conſent, to preſent to his Majeſty one Petition more, not in the name of ſome particular County, but in the name of the vvhole Kingdome of England, that he vvould be pleaſed to vouchſafe the influence of his Royall preſence to his great Counſell, the high Court of <hi>Parliament,</hi> that ſo the blee<g ref="char:EOLhyphen"/>ding wounds of this diſtracted <hi>England</hi> may be prevented.</p>
+               <p>Let the Kingdom of <hi>Scotland</hi> and <hi>Irelands</hi> practiſe induce you to it, but more eſpecially you <hi>London,</hi> Shew not your ſelves ſo backward in this main vvork, you have ſhewed your ſelves moſt couragious and free in all other buſineſſe, ſlack not therefore in this great work, ſeeing you, O <hi>London</hi> are the chiefeſt object upon whom the eyes of all the <hi>Countries</hi> are ſixed. Now O <hi>England</hi> help the <hi>Lord</hi> againſt the mighty, ſtand in your ow<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> defence, but ſtrike not the firſt ſtroke (in caſe it comes to ſuch an exigency) leſt you kindle ſuch a fire in <hi>England,</hi> that vvill never be quenched, but rather manifeſt vvith humble boldneſſe, your extream unwillingneſſe unto ſuch a ſtreight, that ſo the peace of <hi>God,</hi> and the <hi>God</hi> of peace may dvvell amongſt us.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
